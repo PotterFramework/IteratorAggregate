@@ -1,0 +1,22 @@
+{
+    "name": "potter/iterator-aggregate",
+    "description": "PHP IteratorAggregate Interface",
+    "type": "library",
+    "require": {
+        "php": ">=8.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Potter\\Iterator\\Aggregate\\": "src/Potter/Iterator/Aggregate/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jay Potter",
+            "email": "j@ypotter.ca"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
