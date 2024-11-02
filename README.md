@@ -1,0 +1,2 @@
+# IteratorAggregate
+PHP IteratorAggregate Interface
